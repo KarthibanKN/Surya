@@ -12,4 +12,9 @@ public class Sam {
 	private void sam2() {
 		System.out.println("This is Shiva Branch");
 	}
+
+	private void sam2() {
+		System.out.println("This is forked Branch");
+	}
+	
 }
